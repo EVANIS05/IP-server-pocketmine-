@@ -1,2 +1,5 @@
-# IP-server-pocketmine-
-To server mcpe (jika ingin mengubah hosting ubah file ini)
+# CODE
+---
+ip: isekainetwork.ddns.net
+port: 19132
+...
